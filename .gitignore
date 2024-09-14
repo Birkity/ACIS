@@ -3,7 +3,7 @@ nltk_data/
 ven/
 Data/
 data.csv
-data_cleaned.csv
-.dvc/
+!data_cleaned.csv
+!.dvc/
 dvc_storage/
 !data_cleaned.csv.dvc
