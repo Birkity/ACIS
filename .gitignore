@@ -4,3 +4,4 @@ ven/
 Data/
 data.csv
 data_cleaned.csv
+.dvc/
